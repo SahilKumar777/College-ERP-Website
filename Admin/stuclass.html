@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ADMIN PAGE</title>
+<style type="text/css">
+ 
+ </style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../Css/proerp.css">
+</head>
+<body>
+ 
+ 
+ <div class="w3-sidebar w3-bar-block w3-card-2 w3-animate-left" style="display:none" id="mySidebar">
+  <button class="w3-bar-item w3-button w3-large"
+  onclick="w3_close()">Close &times;</button>
+  <a href="adminP.php" class="w3-bar-item w3-button">Admin main page</a>
+  <a href="addT.php" class="w3-bar-item w3-button">Add Teacher</a>
+  <a href="addS.php" class="w3-bar-item w3-button">Add Student</a>
+  <div class="w3-dropdown-hover">
+  <button class="  w3-button">View and Edit Details</button>
+  <div class="w3-dropdown-content w3-bar-block w3-border">
+    <a href="Admin%20page/studentdetails.html" class="w3-bar-item w3-button">Student Details</a>
+    <a href="file:///F:/project/Admin%20page/Teacherdetail.html" class="w3-bar-item w3-button">Teacher Details</a>
+    <a href="file:///F:/project/Admin%20page/classdetails.html" class="w3-bar-item w3-button">Class Details</a>
+  </div>
+</div>
+<a href="logout.html" class="w3-bar-item w3-button">logout</a>
+</div>
+
+
+
+<div zclass="w3-main" id="main">
+   <div class="w3-teal">
+      <div class="w3-teal w3-header">
+          <button class="w3-button w3-teal w3-xlarge" onclick="w3_open()">&#9776;</button>
+          <div class="w3-container">
+            <h1>STUDENT DETAILS</h1>
+          </div>
+      </div>
+      <section>
+        <img class=" w3-image " src="../Images/stu.jpg" >
+		<div class="w3-container w3-maincontent" style="text-align:center; width:100%; color:rebeccapurple;">
+         <form method="post" action="V&Estu.php">
+          <table class="w3-back-table">
+             <caption style="background-color:#00ff00;font-size:27px;">CHOOSE CLASS</caption>
+              <tbody class="w3-mytable-form">
+               <tr><td>Department :     </td>   <td><select name="dept"> 
+                                         <option value='cse' selected>Btech(CSE)</option>
+                                         <option value='ece'>Btech(ECE)</option>
+                                         <option value='me'>Btech(ME)</option>
+                                         <option value='cve'>Btech(CIVIL)</option>
+                                         <option value='mba'>MBA</option>
+                                         <option value='bba'>BBA</option>
+										 </select>                   <br/><br /></td></tr>                                                                        
+	           <tr><td>Semester :    </td>   <td><select name="sem">
+                                                 <option value="1" selected>First</option>
+                                                 <option value="2">Second</option>
+                                                 <option value="3">Third</option>
+                                                 <option value="4">Fourth</option>
+                                                 </select>                   <br/><br /></td></tr>
+
+               						  
+			   <tr><td>    </td>   <td> <input type='submit' name='Submit' value='submit' style='background-color:#00ff00;' /></td></tr>
+			  </tbody>
+             </table>
+            </form>			 
+		</div>
+		
+      </section>
+    </div>
+</div>
+
+
+
+<script>
+function w3_open() {
+  document.getElementById("main").style.marginLeft = "25%";
+  document.getElementById("mySidebar").style.width = "25%";
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("openNav").style.display = 'none';
+}
+function w3_close() {
+  document.getElementById("main").style.marginLeft = "0%";
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("openNav").style.display = "inline-block";
+}
+</script>
+
+</body>
+</html>
