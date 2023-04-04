@@ -1,0 +1,103 @@
+* { 
+   margin:0;
+   padding:0;
+   }
+   html, body{ 
+   	height:100%;
+   }
+   
+   body{ 
+   
+   	background-image:url(/Images/4.jpg);
+    background-position:center;
+    background-size:cover;
+    background-blend-mode:soft-light;
+	}
+   
+   .heading
+   {
+	width:850px;
+	height:200px;
+	margin:auto; 
+	position:absolute;
+	top:0px; bottom:300px; right:-150px; left:0px;
+    }
+
+    .title1
+    {
+	display: block;
+	text-align: center;
+	color:white;
+	font-size:55pt;
+	font-family:big john;
+    }
+
+   #form
+    {
+	    height:50px;
+	    margin:5px auto;
+     } 
+   #form>div.text
+   {position: relative;
+   	height: 700px;font-size:50px;
+   	width:100%;
+   	padding: 16px 20px ;
+   	border: none;
+   	border-radius: 4px;
+   	background: transparent;
+   }
+
+#form > div > div
+     {
+     	width:100px;
+	    height:150px;
+	    margin: auto;
+	    margin-bottom:6px;
+    }
+   #form > div > div > div> input
+     {
+     	width:400px;
+	    height:53px;
+	    background: transparent;
+	    color:black;
+	    border-radius: 12px;
+	    font-size:27px;
+	    font-family: sans-serif; 
+      }
+
+    .register
+	{
+	 margin:auto;
+	 position:absolute;
+	 top:400px; bottom:0px;/* right:0px; left:120px;*/
+	 display: block;
+     width: 145px;
+	 height: 38px;
+	 border:3px solid white;
+	 background-color: rgba(255,255,255,0);
+	 color: white;
+	 font-family: sans-serif;
+	 font-weight: bold;
+	 border-radius: 5px;
+	 transition: background-color 1000ms,color 1000ms;
+	 }
+	 .register:hover
+	 {
+	  background-color: rgba(255,255,255,1);
+	  color: #222;
+	  cursor: pointer;
+	  transition: background-color 1000ms,color 1000ms;
+	 }
+	 
+	 td{
+	 	width:400px;
+	    height:53px;
+	    background: transparent;
+	    color:black;
+	    border-radius: 12px;
+	    font-size:27px;
+	    font-family: sans-serif;}
+	
+	 
+	 
+	   

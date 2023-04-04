@@ -1,0 +1,104 @@
+* { 
+   margin:0;
+   padding:0;
+   }
+   html, body{ 
+   	height:100%;
+   }
+   
+   body{ 
+   
+   	background-image:url(../Images/2.jpg);
+    background-position:center;
+    background-size:cover;
+    background-blend-mode:soft-light;
+	}
+   
+   .heading
+   {
+	margin: 10px;
+    padding: 10px;
+    }
+
+    .title1
+    {
+	display: block;
+	text-align: center;
+	color:white;
+	font-size:55pt;
+	font-family:big john;
+    margin: 10px;
+    padding: 20px;
+    }
+
+   #form
+    {
+        background-color: #aee0f39c;
+        border-radius: 20px;
+        display: inline-block;
+        width: 50%;
+	    margin:auto;
+        padding:10px;
+     } 
+   #form>div.text
+   {
+    font-size:50px;
+   	width:100%;
+   	padding: 16px 20px ;
+   	border: none;
+   	border-radius: 4px;
+   	background: transparent;
+   }
+
+#form > div > div
+     {
+     	width:100px;
+	    height:150px;
+	    margin: auto;
+	    margin-bottom:6px;
+    }
+   #form > div > div > div> input
+     {
+     	width:400px;
+	    height:53px;
+	    background: transparent;
+	    color:black;
+	    border-radius: 12px;
+	    font-size:27px;
+	    font-family: sans-serif; 
+      }
+
+    .register
+	{
+	 margin:auto;
+	 display: block;
+     width: 145px;
+	 height: 38px;
+	 border:3px solid white;
+	 background-color: rgba(255,255,255,0);
+	 color: white;
+	 font-family: sans-serif;
+	 font-weight: bold;
+	 border-radius: 5px;
+	 transition: background-color 1000ms,color 1000ms;
+	 }
+	 .register:hover
+	 {
+	  background-color: rgba(255,255,255,1);
+	  color: #222;
+	  cursor: pointer;
+	  transition: background-color 1000ms,color 1000ms;
+	 }
+	 
+	 td{
+	 	width:400px;
+	    height:53px;
+	    background: transparent;
+	    color:black;
+	    border-radius: 12px;
+	    font-size:27px;
+	    font-family: sans-serif;}
+	
+	 
+	 
+	   
