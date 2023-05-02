@@ -109,39 +109,63 @@
 
 
 1. **Dashboard** 
+
+    * Gives the insights of the current important messages from teachers or admin of institute. 
+
+    * Allows internal communication between admin, teachers and students.
+
+    
 ![Image text](Screenshots/HOD/hodHomepage.jpg)
 
 2. **Add Student Attendance** 
+    * Here the teachers can mark the attendance of all the students of class, whose subjects are assigned to him.
+
 
 ![Image text](Screenshots/HOD/updateAttendance.jpg)
 
 3. **Add Student Result** 
+    * Here the teachers can add and update the students results of assigned subjects.
+
+
 
 ![Image text](Screenshots/HOD/updateResult.jpg)
 
 4. **Add Subject** 
+    * This provides the ability to HOD to add new subjects to classes in their department..
 
 ![Image text](Screenshots/HOD/addSubject.jpg)
 
 5. **Assign Subject to Teachers** 
+    * This gives functionality of assigning subjects to the teachers of any department.
 
 ![Image text](Screenshots/HOD/assignSubject.jpg)
 
 6. **View Student Details** 
+    * Here the teacher can view the students details as well as the whole class details, it also have a search feature with which the HOD can search details of particular students.
+
 
 ![Image text](Screenshots/HOD/techViewStudentDetails.jpg)
 
 7. **view Self details** 
+    * The Teachers can view their own details whenever required.
+
 ![Image text](Screenshots/HOD/viewSelfDetails.jpg)
 
 8. **View Self Attemdance** 
+    * Here teachers can view their own attendance record in the institution.
+
 
 ![Image text](Screenshots/HOD/techViewSelfAttendance.jpg)
 
 9. **Change Account Password**  
+
+    * HOD can update their password whenever required, It requires old password to reset password.
+
+
 ![Image text](Screenshots/HOD/changeTPassword.jpg)
 
 10. **Logout** 
+     * This erp system uses the sessions for secure login and logout.
 ![Image text](Screenshots/Admin/loginPage.jpg)
 <a name="techFunctions"></a>
 
@@ -150,21 +174,50 @@
 ***
 
 1. **Dashboard** 
+    * Gives the insights of the current important messages from teachers or admin of institute. 
 
+    * Allows internal communication between admin, teachers and students.
+    
 ![Image text](Screenshots/Teacher/teacherHomepage.jpg)
 2. **Add Student Attendance** 
+
+    * Here the teachers can mark the attendance of all the students of class, whose subjects are assigned to them.
+
+
 ![Image text](Screenshots/Teacher/updateTAttendance.jpg)
 3. **Add Student Result** 
+
+   * Here the teachers can add and update the students results of assigned subjects.
+
+
 ![Image text](Screenshots/Teacher/updateResult.jpg)
 4. **View Student Details** 
+    * Here the teacher can view the students details as well as the whole class details, it also have a search feature with which the teachers can search details of particular students.
+
+
+
 ![Image text](Screenshots/Teacher/teacherExtMenu.jpg)
 5. **view Self details** 
+    * The Teachers can view their own details whenever required.
+
+
+
 ![Image text](Screenshots/Teacher/viewSelfDetails.jpg)
 6. **View Self Attemdance** 
+    * Here teachers can view their own attendance record in the institution.
+
+
+
 ![Image text](Screenshots/Teacher/viewSelfAttendance.jpg)
 7. **Change Account Password**  
+    * Teachers can update their password whenever required, It requires old password to reset password.
+
+
 ![Image text](Screenshots/Teacher/changeTPassword.jpg)
 8. **Logout** 
+
+    * This erp system uses the sessions for secure login and logout.
+
 ![Image text](Screenshots/Admin/loginPage.jpg)
 <a name="studFunctions"></a>
 
@@ -174,36 +227,52 @@
 
 
 
-1. **Dash Board**
+1. **Dash Board** 
+    * Gives the insights of the current important messages from teachers or admin of institute. 
+
+    * Allows internal communication between admin, teachers and students.
+    
+
 ![Image text](Screenshots/Student/studentHomepage.jpg)
 
 2. **View Attendance** 
+    * Here students can view their own attendance record of all the subjects.
+
+
 ![Image text](Screenshots/Student/viewAttendance.jpg)
 
 3. **View Result**  
+    * The students can view their result of all the semesters and subjects with automatically calculated percentage.
+
+
+
 ![Image text](Screenshots/Student/viewResult.jpg)
 
 4. **View Self Details** 
+    * The students can view their own details whenever required.
+
+
 ![Image text](Screenshots/Student/selfDetails.jpg)
 
 5. **View Time table** 
+    * The students can view their class time-table set by their Head of Department 
+
+
+
 ![Image text](Screenshots/Student/TimeTable.jpg)
 
 6. **Change Account Password**  
+
+    * Students can update their password whenever required, It requires old password to reset password.
+
 ![Image text](Screenshots/Student/changeSPassword.jpg)
 
 7. **Logout**  
+
+    * This erp system uses the sessions for secure login and logout.
+
 ![Image text](Screenshots/Admin/loginPage.jpg)
 
-* Adding records of students and teachers
-
-* Internal communication between admin, teachers and students
-
-* Managing records like attendance, results and timetables
-
-* Single secured login page for all the entities i.e admin, teachers and students
-
-* Dashboard which gives the insights of the current important messages from teachers or admin of institute.
 
 ## Technologies
 
