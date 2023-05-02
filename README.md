@@ -44,7 +44,13 @@
 
 
 
-1. **Dashboard** 
+1. **Admin Menu** 
+
+    * Side bar opening menu system, with user profile as a header. It gives easy and fast accessibility to all the available functionality at a single place.
+
+      ![Admin Menu](Screenshots/Admin/adminMenu.jpg)
+   
+3. **Dashboard**
 
     * Gives the insights of the current important messages from teachers or admin of institute. 
 
@@ -107,7 +113,13 @@
 
 ***
 
+1. **HOD Menu** 
 
+    * Side bar opening menu system, with user profile as a header. It gives easy and fast accessibility to all the available functionality at a single place.
+
+      ![HOD Menu](Screenshots/HOD/hodMenu.jpg)
+
+   
 
 1. **Dashboard** 
 
@@ -174,7 +186,12 @@
 ### Teacher Panel
 
 ***
+1. **Teacher Menu** 
 
+    * Side bar opening menu system, with user profile as a header. It gives easy and fast accessibility to all the available functionality at a single place.
+
+      ![Teacher Menu](Screenshots/Teacher/teacherMenu.jpg)
+   
 1. **Dashboard** 
     * Gives the insights of the current important messages from teachers or admin of institute. 
 
@@ -228,7 +245,12 @@
 
 ***
 
+1. **Student Menu** 
 
+    * Side bar opening menu system, with user profile as a header. It gives easy and fast accessibility to all the available functionality at a single place.
+
+      ![Student Menu](Screenshots/Student/studentMenu.jpg)
+   
 
 1. **Dash Board** 
     * Gives the insights of the current important messages from teachers or admin of institute. 
