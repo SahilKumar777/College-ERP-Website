@@ -163,7 +163,7 @@
 ![Image text](Screenshots/Student/studentHomepage.jpg)
 
 2. **View Attendance** 
-![Image text](Screenshots/Student/viewAttendace.jpg)
+![Image text](Screenshots/Student/viewAttendance.jpg)
 
 3. **View Result**  
 ![Image text](Screenshots/Student/viewResult.jpg)
