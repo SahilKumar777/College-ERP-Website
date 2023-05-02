@@ -32,7 +32,9 @@
 ## Functionalities
 
 ***
+### Login Page 
 
+* Single secured login page for all the entities i.e admin, hod, teachers and students.
 ![Image text](Screenshots/Admin/loginPage.jpg)
 
 <a name="adminFunctions"></a>
@@ -51,37 +53,50 @@
 
 2. **Add Student Record** 
 
-    * Add new student detail to the system 
+    * Add new student detail to the erp system, this option is only available to admin. 
     
     
 ![Image text](Screenshots/Admin/addStudent.jpg)
 
 3. **Add Teacher record** 
+    * Add new student teacher details to the erp system, this functionality is also available to the admin only.
+
+
 
 ![Image text](Screenshots/Admin/addTeacher.jpg)
 
 5. **HOD Panel** 
+    * Gives insight of the current Head of different departments, and also gives flexibility to assign HOD post to a new teacher.
+
 
 ![Image text](Screenshots/Admin/selectHOD.jpg)
 
 6. **Add Teachers Attendance** 
-
+    * Here the admin can mark the attendance of all the teachers.
 
 ![Image text](Screenshots/Admin/addTecherAttendance.jpg)
 
 7. **View Students Details** 
 
+    * Here the admin can view the students details as well as the whole class details, it also have a search feature with which the admin can search details of particular students.
+
 ![Image text](Screenshots/Admin/viewStudentDetails.jpg)
 
 8. **View Teachers Details**  
+
+    * Admin can view and edit the details of teachers by searching particular teacher.
 
 ![Image text](Screenshots/Admin/viewTeacherDetails.jpg)
 
 9. **Change Account Password** 
 
+    * Admin can update their password whenever required, It requires old password to reset password.
+
 ![Image text](Screenshots/Admin/changePassword.jpg)
 
 10. **Logout** 
+
+    * This erp system uses the sessions for secure login and logout.
 
  ![Image text](Screenshots/Admin/loginPage.jpg)
 
