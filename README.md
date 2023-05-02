@@ -75,7 +75,7 @@
 
 8. **View Teachers Details**  
 
-![Image text](Screenshots/Admin/viewTeacherDetails)
+![Image text](Screenshots/Admin/viewTeacherDetails.jpg)
 
 9. **Change Account Password** 
 
@@ -110,7 +110,7 @@
 
 5. **Assign Subject to Teachers** 
 
-![Image text](Screenshots/HOD/assignSubject)
+![Image text](Screenshots/HOD/assignSubjecjpgt.)
 
 6. **View Student Details** 
 
@@ -142,7 +142,7 @@
 3. **Add Student Result** 
 ![Image text](Screenshots/Teacher/updateResult.jpg)
 4. **View Student Details** 
-![Image text](Screenshots/Teacher/teacherExtMenu)
+![Image text](Screenshots/Teacher/teacherExtMenu.jpg)
 5. **view Self details** 
 ![Image text](Screenshots/Teacher/viewSelfDetails.jpg)
 6. **View Self Attemdance** 
