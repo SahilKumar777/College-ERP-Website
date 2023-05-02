@@ -33,7 +33,7 @@
 
 ***
 
-![Image text](https://example.com)
+![Image text](Screenshots/Admin/loginPage.jpg)
 
 <a name="adminFunctions"></a>
 
