@@ -110,7 +110,7 @@
 
 5. **Assign Subject to Teachers** 
 
-![Image text](Screenshots/HOD/assignSubjecjt.jpg)
+![Image text](Screenshots/HOD/assignSubject.jpg)
 
 6. **View Student Details** 
 
