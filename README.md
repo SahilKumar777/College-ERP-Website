@@ -110,18 +110,18 @@
 
 5. **Assign Subject to Teachers** 
 
-![Image text](Screenshots/HOD/)
+![Image text](Screenshots/HOD/assignSubject)
 
 6. **View Student Details** 
 
-![Image text](Screenshots/HOD/viewStudentDetails.jpg)
+![Image text](Screenshots/HOD/techViewStudentDetails.jpg)
 
 7. **view Self details** 
 ![Image text](Screenshots/HOD/viewSelfDetails.jpg)
 
 8. **View Self Attemdance** 
 
-![Image text](Screenshots/HOD/viewSelfAttendance.jpg)
+![Image text](Screenshots/HOD/techViewSelfAttendance.jpg)
 
 9. **Change Account Password**  
 ![Image text](Screenshots/HOD/changeTPassword.jpg)
