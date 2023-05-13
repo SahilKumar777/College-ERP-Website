@@ -8,12 +8,28 @@
 ## Modules
 
 1. [Admin](#adminFunctions)
+   
+   ID - admin@erp.com
+   
+   pass - 1234
 
 2. [Hod](#hodFunctions)
+  
+   ID - anuj@rrp.com
+   
+   pass - 1234
 
 3. [Teacher](#techFunctions)
-
+   
+   ID - anand@erp.com
+   
+   pass - 1234
+   
 4. [Student](#studFunctions)
+   
+   ID - deepak@erp.com
+   
+   pass - 1234
 
 ### [Php, Javascript, HTML, CSS, Bootstrap, mySQL, phpMyAdmin]
 
